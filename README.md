@@ -23,3 +23,7 @@ https://www.figma.com/proto/Da3NdN5mttIKhw1qLAepjm/ISOMO-Phonics?node-id=1-6&p=f
 Deployment Plan
 
 After the debugging and testing phase is complete, the application will be officially launched on the Google PlayStore and downloadable to all persons and learners with Android devices
+
+Demo Video: The video file was too big to be uploaded directly to github. Please find its link below.
+https://drive.google.com/file/d/1yuHC_pj2FoxfayKwdlky59S2NEirjoff/view?usp=sharing
+
