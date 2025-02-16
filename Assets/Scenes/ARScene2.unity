@@ -1671,10 +1671,10 @@ MonoBehaviour:
   m_ObjectPrefabs:
   - {fileID: 8986328500875594450, guid: b244512740c2cb04c87e61599d8dfe76, type: 3}
   - {fileID: 7657548977611231357, guid: 4fcfe475b78e97d4ba0f233dad88e847, type: 3}
-  - {fileID: 8986328500875594450, guid: 6a48536fb9745b04ba57efa18d8311ae, type: 3}
-  - {fileID: 8986328500875594450, guid: bb90c845ddeba724289a49cc345b0cf4, type: 3}
-  - {fileID: 8986328500875594450, guid: ea59400eb6158db4dba9cd6b194c82db, type: 3}
-  - {fileID: 8986328500875594450, guid: 0a0d5f8c075bd024c8cc9fe501e0fb96, type: 3}
+  - {fileID: 7657548977611231357, guid: d47774d0de7df4b41967c4916cb03f11, type: 3}
+  - {fileID: 3555902977704940904, guid: aaf95cb3b1da1ff4fbbe1acde9411857, type: 3}
+  - {fileID: 8986328500875594450, guid: 2859a1e0621fe3843a52424e794bc5a3, type: 3}
+  - {fileID: 2668992677333385299, guid: 6837ebd686aa86c4382c470300f7f51e, type: 3}
   - {fileID: 8986328500875594450, guid: ca938e77f954f4d4bbcb6fb299494a9d, type: 3}
   m_SpawnVisualizationPrefab: {fileID: 0}
   m_SpawnOptionIndex: 0

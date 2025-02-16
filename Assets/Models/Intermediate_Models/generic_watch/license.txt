@@ -1,0 +1,11 @@
+Model Information:
+* title:	Generic watch
+* source:	https://sketchfab.com/3d-models/generic-watch-9b5e574bb7f04241b8f70ad5626e9fbf
+* author:	Sousinho (https://sketchfab.com/sousinho)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Generic watch" (https://sketchfab.com/3d-models/generic-watch-9b5e574bb7f04241b8f70ad5626e9fbf) by Sousinho (https://sketchfab.com/sousinho) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
