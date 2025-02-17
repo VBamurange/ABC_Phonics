@@ -5,12 +5,20 @@ using UnityEngine.SceneManagement;
 public class Scenechange : MonoBehaviour
 {
     public string sceneName;
-    public Button beginnerButton;
+    public Button levelButton;
+    public Button backButton;
+    //public string targetPanel;
+
     void Start()
     {
-        if (beginnerButton != null)
+        if (levelButton != null)
         {
-            beginnerButton.onClick.AddListener(() => ChangeScene());
+            levelButton.onClick.AddListener(() => ChangeScene());
+        }
+
+        if (backButton != null)
+        {
+            backButton.onClick.AddListener(() => BackToPreviousScene());
         }
     }
 
@@ -23,8 +31,16 @@ public class Scenechange : MonoBehaviour
     public void ChangeScene()
     {
         SceneManager.LoadScene(sceneName);
+
+        PlayerPrefs.SetString("ActivePanel", "TermsPanel");
+        PlayerPrefs.Save();
+        
     }
 
+    public void BackToPreviousScene()
+    {
+        SceneManager.LoadScene("IntroScene");
+    }
     public void QuitGameMethod()
     {
 #if UNITY_EDITOR
