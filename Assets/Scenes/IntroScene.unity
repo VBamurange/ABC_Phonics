@@ -132,6 +132,8 @@ GameObject:
   m_Component:
   - component: {fileID: 10853921}
   - component: {fileID: 10853920}
+  - component: {fileID: 10853923}
+  - component: {fileID: 10853922}
   m_Layer: 0
   m_Name: ScriptHolder
   m_TagString: Untagged
@@ -170,6 +172,42 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &10853922
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 10853919}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f94a194cb99b4c4dbb8367acf82ac28, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneName: 
+  levelButton: {fileID: 0}
+  backButton: {fileID: 0}
+  targetPanel: TermsPanel
+--- !u!114 &10853923
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 10853919}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 232d1b3a8c6b1ab4d9599b3721f9de8a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  allPanels:
+  - {fileID: 1149583659}
+  - {fileID: 1595723605}
+  - {fileID: 1408722696}
+  - {fileID: 576875428}
+  - {fileID: 1998419169}
+  activePanelName: WelcomePanel
+  defaultPanel: 
 --- !u!1 &190378967
 GameObject:
   m_ObjectHideFlags: 0
@@ -1571,7 +1609,7 @@ PrefabInstance:
     - target: {fileID: 1932928583700486615, guid: 2882008f54eb7ae4ea03818fcaf65f9b,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2130477438746741106, guid: 2882008f54eb7ae4ea03818fcaf65f9b,
         type: 3}
@@ -1937,6 +1975,7 @@ MonoBehaviour:
   sceneName: ARScene3
   levelButton: {fileID: 667056191}
   backButton: {fileID: 0}
+  targetPanel: 
 --- !u!114 &667056195
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1952,6 +1991,7 @@ MonoBehaviour:
   sceneName: ARScene2
   levelButton: {fileID: 667056193}
   backButton: {fileID: 0}
+  targetPanel: 
 --- !u!1 &683774376
 GameObject:
   m_ObjectHideFlags: 0

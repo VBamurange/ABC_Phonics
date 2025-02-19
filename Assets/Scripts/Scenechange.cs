@@ -7,7 +7,7 @@ public class Scenechange : MonoBehaviour
     public string sceneName;
     public Button levelButton;
     public Button backButton;
-    //public string targetPanel;
+    public string targetPanel;
 
     void Start()
     {
@@ -39,6 +39,9 @@ public class Scenechange : MonoBehaviour
 
     public void BackToPreviousScene()
     {
+        PlayerPrefs.SetString("ActivePanel", targetPanel);
+        PlayerPrefs.Save();
+        
         SceneManager.LoadScene("IntroScene");
     }
     public void QuitGameMethod()
