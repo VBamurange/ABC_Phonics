@@ -40,6 +40,7 @@ public class Scenechange : MonoBehaviour
     public void BackToPreviousScene()
     {
         PlayerPrefs.SetString("ActivePanel", targetPanel);
+        PlayerPrefs.SetString("ReturningFromScene", "true");
         PlayerPrefs.Save();
         
         SceneManager.LoadScene("IntroScene");
