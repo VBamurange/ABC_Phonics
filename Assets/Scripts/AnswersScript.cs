@@ -13,12 +13,13 @@ public class AnswersScript : MonoBehaviour
         if(isCorrect)
         {
             Debug.Log("Correct Answer");
-            quizManager.correct();
+            quizManager.Correct();
 
         }
         else
         {
             Debug.Log("Answer is incorrect");
+            quizManager.wrongAnswer();
         }
     }
 }
