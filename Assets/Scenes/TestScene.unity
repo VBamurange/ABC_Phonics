@@ -3237,6 +3237,209 @@ MonoBehaviour:
     - l
     - r
     CorrectAnswer: 3
+  - Question: Fill in the missing letters.  Fl_ _ r
+    Answers:
+    - a,a
+    - o,o
+    - i,i
+    - u,u
+    CorrectAnswer: 2
+  - Question: Fill in the missing letter.  Co_ d
+    Answers:
+    - l
+    - c
+    - r
+    - u
+    CorrectAnswer: 3
+  - Question: Fill in the missing letters.  Cabi _ _ t
+    Answers:
+    - n,e
+    - c.e
+    - r,e
+    - u,e
+    CorrectAnswer: 1
+  - Question: Fill in the missing letter.  Du _ et
+    Answers:
+    - m
+    - c
+    - f
+    - v
+    CorrectAnswer: 4
+  - Question: Fill in the missing letter.  To _ el
+    Answers:
+    - w
+    - c
+    - f
+    - v
+    CorrectAnswer: 1
+  - Question: Fill in the missing letter.  Tra_ma
+    Answers:
+    - w
+    - c
+    - u
+    - v
+    CorrectAnswer: 3
+  - Question: Fill in the missing letter.  Gi _ _ er
+    Answers:
+    - w,e
+    - n,g
+    - f,e
+    - k,e
+    CorrectAnswer: 2
+  - Question: Fill in the missing letter.  Gira _ _ e
+    Answers:
+    - w,e
+    - n,g
+    - f,f
+    - k,e
+    CorrectAnswer: 3
+  - Question: Fill in the missing letter.  Por _ upine
+    Answers:
+    - c
+    - p
+    - f
+    - k
+    CorrectAnswer: 1
+  - Question: Fill in the missing letter.  Popsi _ le
+    Answers:
+    - c
+    - p
+    - f
+    - k
+    CorrectAnswer: 1
+  - Question: Fill in the missing letter.  Ti _ _ er
+    Answers:
+    - m,c
+    - m,b
+    - m,a
+    - m,s
+    CorrectAnswer: 2
+  - Question: Fill in the missing letter.  Ga _  e
+    Answers:
+    - c
+    - b
+    - a
+    - m
+    CorrectAnswer: 4
+  - Question: Fill in the missing letter.  S _ arf
+    Answers:
+    - c
+    - b
+    - a
+    - m
+    CorrectAnswer: 1
+  - Question: 'Fill in the missing letter.  Pillo _ '
+    Answers:
+    - c
+    - b
+    - a
+    - w
+    CorrectAnswer: 4
+  - Question: Fill in the missing letter.  Can _ as
+    Answers:
+    - c
+    - b
+    - v
+    - w
+    CorrectAnswer: 3
+  - Question: Fill in the missing letter.  Tu _ _ y
+    Answers:
+    - c,c
+    - b,b
+    - m,m
+    - w,w
+    CorrectAnswer: 3
+  - Question: Fill in the missing letter.  Larva _
+    Answers:
+    - c
+    - b
+    - m
+    - e
+    CorrectAnswer: 4
+  - Question: Fill in the missing letter.  Turk _ y
+    Answers:
+    - e
+    - b
+    - m
+    - w
+    CorrectAnswer: 1
+  - Question: Fill in the missing letter.  Pict _ re
+    Answers:
+    - e
+    - b
+    - u
+    - w
+    CorrectAnswer: 3
+  - Question: Fill in the missing letter.  We _ ther
+    Answers:
+    - e
+    - b
+    - m
+    - a
+    CorrectAnswer: 4
+  - Question: Fill in the missing letter.  We _ sel
+    Answers:
+    - e
+    - b
+    - m
+    - a
+    CorrectAnswer: 4
+  - Question: Fill in the missing letter.  W _ nner
+    Answers:
+    - i
+    - b
+    - m
+    - a
+    CorrectAnswer: 1
+  - Question: Fill in the missing letter.  Wi _ ter
+    Answers:
+    - e
+    - n
+    - m
+    - a
+    CorrectAnswer: 2
+  - Question: Fill in the missing letter.  Brot _ er
+    Answers:
+    - e
+    - b
+    - h
+    - a
+    CorrectAnswer: 3
+  - Question: Fill in the missing letters.  Si _ _ er
+    Answers:
+    - e
+    - b
+    - m,m
+    - a
+    CorrectAnswer: 3
+  - Question: Fill in the missing letters.  Si _ _er
+    Answers:
+    - s,t
+    - b,m
+    - m,a
+    - m,m
+    CorrectAnswer: 1
+  - Question: Fill in the missing letter.  Un _ le
+    Answers:
+    - e
+    - c
+    - m
+    - a
+    CorrectAnswer: 2
+  - Question: Fill in the missing letter.  A_ nt
+    Answers:
+    - e
+    - b
+    - m
+    - u
+    CorrectAnswer: 4
+  - Question: Fill in the missing letter.  C _ usin
+    Answers:
+    - e
+    - b
+    - o
+    - a
+    CorrectAnswer: 3
   options:
   - {fileID: 1831501060}
   - {fileID: 425719643}
@@ -3377,7 +3580,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1500610809
 RectTransform:
   m_ObjectHideFlags: 0
@@ -3903,7 +4106,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1659354555
 RectTransform:
   m_ObjectHideFlags: 0
