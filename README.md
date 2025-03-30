@@ -27,6 +27,7 @@ After the debugging and testing phase is complete, the application will be offic
 Demo Video 1 on Samsung Galaxy S22: https://drive.google.com/file/d/19JMChJ7lP0IX7DNapEJrvpPuQ4CHQ8k2/view?usp=sharing
 Demo Video 2 on Samsung Note 20: https://drive.google.com/file/d/1oF4W2AxoDh_HthhtY3TQdKJz99-Ll1i7/view?usp=sharing
 
-Deployable APK Link: https://drive.google.com/file/d/11Mle6o77BXrc_7ohqjBVWehDiJksVgSp/view?usp=drive_link
+Deployable APK Link: https://drive.google.com/file/d/1CqoeBSu9bfiSR7oV21OHRco4kOUCEkRE/view?usp=sharing
+
 
 
