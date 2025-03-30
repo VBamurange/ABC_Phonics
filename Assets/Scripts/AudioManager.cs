@@ -4,17 +4,18 @@ using UnityEngine;
 
 public class AudioManager : MonoBehaviour
 {
+    //public static AudioManager instance;
     public AudioSource audioSource;
 
 
     void Start()
     {
-        audioSource = GetComponent<AudioSource>();   
+         audioSource = GetComponent<AudioSource>();   
     }
 
     public void PlayAudio()
     {
-        if (!audioSource.isPlaying)
+        if(!audioSource.isPlaying)
         {
             audioSource.Play();
         }
