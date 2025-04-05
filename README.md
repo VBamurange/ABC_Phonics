@@ -29,5 +29,12 @@ Demo Video 2 on Samsung Note 20: https://drive.google.com/file/d/1oF4W2AxoDh_Hth
 
 Deployable APK Link: https://drive.google.com/file/d/1CqoeBSu9bfiSR7oV21OHRco4kOUCEkRE/view?usp=sharing
 
+How to Install the APK on your Android device.
+1. Download the APK from the provided link
+2. Tap the downloaded APK
+3. Tap "Install" when prompted
+4. Once installed, Open the app
+
+After step 4 the application should run without hindrance.
 
 
